@@ -8,7 +8,7 @@ O jeito foi colocar o barquinho contra a correnteza!
 
 ## 🔹 Grupo de Whatsapp
 
-[+ Ir para Whatsapp: Descomplicado](./src/redir/redir-grupo.html)
+[+ Ir para Whatsapp: Descomplicados](./src/redir/redir-grupo.html)
 
 Perdido na facul? Este é o lugar certo!
 
@@ -19,7 +19,7 @@ Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação
 
 ## 🔹 Google Drive
 
-[+ Ir para Google Drive: Descomplicado](./src/redir/redir-drive.html)
+[+ Ir para Google Drive: Descomplicados](./src/redir/redir-drive.html)
 
 - Documentos gerados no grupo
 - Dicas de cursos, a
