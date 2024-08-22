@@ -3,10 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      http-equiv="Refresh"
-      content="6; url=https://tinyurl.com/descomplicados-grupo"
-    />
+    <meta http-equiv="Refresh" content="6; url=https://tinyurl.com/descomplicados-grupo" />
     <title>Redirecionando...</title>
   </head>
   <style>
@@ -20,7 +17,7 @@
       left: 0;
       z-index: var(--before-zIndex, -1000);
       opacity: 0;
-      transition: all 1s;
+      transition: opcaity 1s;
     }
 
     body {
@@ -28,40 +25,87 @@
       box-sizing: border-box;
       padding: 0;
       margin: 0;
-      transition: all 1s;
+      transition: opacity 1s;
     }
-    h1 {
-      padding: 20px 15px;
-    }
+
     p {
       padding: 0 40px;
       font-size: 14px;
     }
+
+    a {
+      font-weight: bold;
+      color: #00e88f;
+      transition: color 0.5s;
+      &:hover {
+        color: #00945b;
+        cursor: pointer;
+      }
+    }
+
     #principal {
       font-size: 40px;
     }
+
+    #voltar {
+      display: flex;
+      padding: 0 40px;
+      font-size: 14px;
+      width: 200px;
+      height: 40px;
+      align-items: center;
+      justify-content: center;
+      background-color: #fff;
+      border: 2px solid #00e88f;
+      color: #333;
+      transition: background 0.5s;
+      &:hover {
+        background-color: #00e88f;
+        color: #fff;
+        cursor: pointer;
+      }
+    }
+
+    #container {
+      margin: 30px 30px;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+    }
   </style>
   <body>
-    <h1>
-      Estamos redirecionando você para
-      <span id="principal">Whatsapp: Grupo Descomplicados</span
-      ><span id="pontilhado">...</span>
-    </h1>
-    <p>
-      Você será redirecionado automaticamente<span id="tempo">
-        em 5 segundos</span
-      >...
-    </p>
-    <p>
-      Caso desejar,
-      <a href="https://tinyurl.com/descomplicados-grupo">clique aqui</a> para ser
-      redirecionado manualmente.
-    </p>
+    <section id="container">
+      <a href="https://descomplicados.renj.dev.br">
+        <img src="./src/img/LogoDescomplicados.png" width="300px" alt="Logo Descomplicados">
+      </a>
+      <h1>Estamos redirecionando você para:<br /></h1>
+      <h2>
+        <span id="principal">Grupo do Whatsapp: Descomplicados</span
+        ><span id="pontilhado">...</span>
+      </h2>
+      <p>
+        Você será redirecionado automaticamente<span id="tempo">
+          em 5 segundos</span
+        >...
+      </p>
+      <p>
+        Caso desejar,
+        <a href="https://tinyurl.com/descomplicados-grupo">clique aqui</a> para ser
+        redirecionado manualmente.
+      </p>
+      <br />
+      <button id="voltar">Voltar</button>
+    </section>
   </body>
   <script>
     const tempo = document.querySelector('#tempo');
     const pontilhado = document.querySelector('#pontilhado');
     const body = document.querySelector('body');
+    const voltar = document.querySelector('#voltar');
+
+    voltar.addEventListener('click', () => {
+      window.location.href = 'https://descomplicados.renj.dev.br/';
+    });
 
     let segundos = 5;
     let pontos = 3;
