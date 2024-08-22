@@ -8,7 +8,7 @@ O jeito foi colocar o barquinho contra a correnteza!
 
 ## 🔹 Grupo de Whatsapp
 
-[+ Ir para Whatsapp: Descomplicados](./src/redir/redir-grupo.html)
+[+ Ir para Whatsapp: Descomplicados](./grupo.html)
 
 Perdido na facul? Este é o lugar certo!
 
@@ -19,7 +19,7 @@ Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação
 
 ## 🔹 Google Drive
 
-[+ Ir para Google Drive: Descomplicados](./src/redir/redir-drive.html)
+[+ Ir para Google Drive: Descomplicados](./drive.html)
 
 - Documentos gerados no grupo
 - Dicas de cursos, a
@@ -31,7 +31,7 @@ Explore se estiver procurando conteúdo e informação!
 
 ## 🔹 Babysteps
 
-[+ Ir para Babysteps](./src/redir/redir-babysteps.html)
+[+ Ir para Babysteps](./babysteps.html)
 
 Sequencia de dicas úteis para você se tornar um bom programador
 - Dicas de como fazer 
