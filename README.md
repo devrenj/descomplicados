@@ -12,7 +12,7 @@ O jeito foi colocar o barquinho contra a correnteza!
 
 Perdido na facul? Este é o lugar certo!
 
-Aqui temos muito assunto, muito estudo na prática e muito < código />
+Aqui temos muito assunto, muito estudo na prática e muito &lt;código/&gt;
 
 Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação
 
