@@ -12,7 +12,7 @@ O jeito foi colocar o barquinho contra a correnteza!
 
 Perdido na facul? Este é o lugar certo!
 
-Aqui temos muito assunto, muito estudo na prática e muito < código />
+Aqui temos muito assunto, muito estudo na prática e muito <código/>
 
 Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação
 
@@ -22,9 +22,9 @@ Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação
 [+ Ir para Google Drive: Descomplicados](./drive.html)
 
 - Documentos gerados no grupo
-- Dicas de cursos, a
-- Arquivos, 
-- Materiais de apoio, p
+- Dicas de cursos
+- Arquivos
+- Materiais de apoio
 - Prompts usados no ChatGPT
 
 Explore se estiver procurando conteúdo e informação!
