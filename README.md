@@ -50,7 +50,7 @@ Muito conteúdo sobre Programação e sequencia de dicas úteis para você se to
 
 ## 🔹 Cursos
 
-[+ Ir para Cursos](https://tinyurl.com/descomplicados-cursos)
+[+ Ir para Cursos](./cursos.html)
 
 Cursos gratuitos pelo YouTube e links de canais* do Telegram que são compartilhados publicamente
 
@@ -58,15 +58,15 @@ Cursos gratuitos pelo YouTube e links de canais* do Telegram que são compartilh
 
 ## 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
 
-[+ Ir para Perguntas Frequentes – Descomplica](https://no.descomplica.com.br/knowledge/graduação)
+[+ Ir para Perguntas Frequentes – Descomplica](./descomplica-faq.html)
 
-Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX, aqui também tem o [Manual do PEX](https://1653949.fs1.hubspotusercontent-na1.net/hubfs/1653949/Manual%20Projeto%20de%20Extens%C3%A3o%202024.pdf) onde você pode conhecer tudo o que precisa saber sobre o assunto, descomplique-se já!
+Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX, aqui também tem o [Manual do PEX](./descomplica-pex.html) onde você pode conhecer tudo o que precisa saber sobre o assunto, descomplique-se já!
 
 _Fonte: <https://no.descomplica.com.br>_
 
 ## 🔹 Não tem um linkedin?
 
-[+ Ir para Linkedin para Estudantes](https://www.linkedin.com/learning/linkedin-para-estudantes-2022/linkedin-para-estudantes)
+[+ Ir para Linkedin para Estudantes](./linkedin-estudantes.html)
 
 Aqui estão dicas valiosas para você montar o seu perfil do Linkedin, lembre-se: Um perfil campeão é a chave para o seu sucesso profissional, especialize-se, invista em você mesmo e principalmente, saiba se apresentar!
 
@@ -94,8 +94,8 @@ Me chamam de **void Beto( );** 👨‍💻
 
 Gosto muito de ajudar a galera a se desenvolver e tenho um prazer pessoal nisso, passo uma boa parte do meu tempo criando conteúdos para quem realmente quer aprender e claro, a cada dia eu aprendo um pouco mais com isso, juntos!
 
-Meu site: <https://renj.dev.br>
+[+ Ir para Meu Site](./renj.html)
 
 ## LICENSE
 
-Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
+Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](./github.html)) under MIT License
