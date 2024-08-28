@@ -33,15 +33,23 @@ Explore se estiver procurando conteúdo e informação!
 
 [+ Ir para Babysteps](./babysteps.html)
 
-Sequencia de dicas úteis para você se tornar um bom programador
+Muito conteúdo sobre Programação e sequencia de dicas úteis para você se tornar um bom programador, mergulhe nesse conhecimento!
 - Dicas de como fazer 
 - O que fazer
 - Por onde começar
-- O caminho que você deve seguir para se dar bem na área
+- Qual caminho seria bom de você seguir
 
 > Lembre-se:
 > 
 > Um Dev Sênior já foi um Júnior um dia...
+
+## 🔹 Cursos
+
+[+ Ir para Cursos](https://tinyurl.com/descomplicados-cursos)
+
+Cursos gratuitos pelo YouTube e links de canais* do Telegram que são compartilhados publicamente
+
+***Não são de minha autoria**
 
 ## 🔹 Desenvolvedor
 
