@@ -82,7 +82,7 @@ Tenha em mente que você não vai aprender nada se copiar respostas…
 
 - <https://discord.gg/EXyVQvzf>
 
-- <a href="⁠https://docs.google.com/spreadsheets/d/1qso-vckMjekNxqr0nEUBhA9dytBuqo2f4X8kM6wqTIE/edit#gid=1119658359">⁠https://docs.google.com/spreadsheets/d/1qso-vckMjekNxqr0nEUBhA9dytBuqo2f4X8kM6wqTIE/edit#gid=1119658359</a>
+- <https://docs.google.com/spreadsheets/d/1qso-vckMjekNxqr0nEUBhA9dytBuqo2f4X8kM6wqTIE/edit#gid=1119658359>
 
 - <https://discord.gg/qatjvSCu>
 
