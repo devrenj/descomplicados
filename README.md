@@ -80,11 +80,11 @@ O mundo é movido a vendas, então saiba vender seu peixe 🎣
 
 Tenha em mente que você não vai aprender nada se copiar respostas…
 
-- <https://discord.gg/EXyVQvzf>
-
 - <https://docs.google.com/spreadsheets/d/1qso-vckMjekNxqr0nEUBhA9dytBuqo2f4X8kM6wqTIE/edit#gid=1119658359>
+  
+- <https://discord.gg/jvjzcXjtdG>
 
-- <https://discord.gg/qatjvSCu>
+- <https://discord.gg/RtSBvm3HQ3>
 
 - <https://discord.gg/6DbP5vx5mt>
 
