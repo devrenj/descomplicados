@@ -205,7 +205,7 @@ Este é o site oficial da faculdade para as dúvidas que são enviadas pelo form
 
 Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a PEX, regras, ideias e outros tópicos interessantes:
 
-> Agradecimento ao membro do grupo: [Ju](https://github.com/juufavarin)
+> Agradecimento ao membro do grupo: [Ju @juufavarin](https://github.com/juufavarin)
 
 ## 🔹 Contato Descomplica: Desconews
 
