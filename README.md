@@ -4,7 +4,7 @@ Como a faculdade não faz juz ao nome e só...
 
 O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
-![Logo Descomplicados](src/img/simbolo-descomplicados.png)
+![Logo Descomplicados](./src/img/LogoDescomplicados.png)
 
 Tabela de Conteúdo:
 - [🔷 Geral](#-geral)
