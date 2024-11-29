@@ -15,7 +15,7 @@ Tabela de Conteúdo:
   - [🔹 Cursos](#-cursos)
   - [🔹 Não tem um linkedin?](#-não-tem-um-linkedin)
   - [🔹 ABNT para trabalhos acadêmicos](#-abnt-para-trabalhos-acadêmicos)
-- [🔷 Des..COMPLICA](#-descomplica)
+- [🔷 ~~Des~~COMPLICA](#-descomplica)
   - [🔹 Senha das Lives da Descomplica](#-senha-das-lives-da-descomplica)
   - [🔹 IA.smin](#-iasmin)
   - [🔹 Abrindo um ticket](#-abrindo-um-ticket)
@@ -109,7 +109,7 @@ Escolhi esse modelo da UFRA (fonte: Google) pois está muito bem elaborado e exp
 
 > Lembre-se que um trabalho sempre deve ter Início, Meio e Fim mesmo que não siga as normas ABNT
 
-# 🔷 Des..COMPLICA
+# 🔷 ~~Des~~COMPLICA
 
 ## 🔹 Senha das Lives da Descomplica
 
