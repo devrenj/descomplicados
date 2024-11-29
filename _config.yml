@@ -1,5 +1,7 @@
 title: Descomplicados
-description: Grupo de desenvolvimento da faculdade de ADS, feito de aluno para aluno
+description: Grupo de desenvolvimento da faculdade de ADS
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
