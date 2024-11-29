@@ -158,6 +158,8 @@ Se de todas as opções acima, não conseguir resolver seus problemas, entre em 
 
 Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 
+> Agradecimento ao membro do grupo: Taíssa
+
 ## 🔹 Não tem um linkedin?
 
 [+ Ir para Linkedin para Estudantes](./redirect.html?site=linkedin_estudantes)
