@@ -19,6 +19,9 @@ async function redirecionar(site) {
     drive: { url: 'https://tinyurl.com/descomplicados-drive', desc: 'Google Drive: Descomplicados' },
     cursos: { url: 'https://tinyurl.com/descomplicados-cursos', desc: 'Google Drive: Cursos' },
     grupo: { url: 'https://tinyurl.com/descomplicados-grupo', desc: 'Grupo do Whatsapp: Descomplicados' },
+    abnt: { url: 'https://portalbiblioteca.ufra.edu.br/images/Formularios/MANUAL_DE_NORMALIZAO_DE_TRABALHOS_ACADMICOS_2024.pdf', desc: 'UFRA: ABNT para trabalhos acadêmicos' },
+    desconews: { url: 'https://wa.me/5521997927656', desc: 'Whatsapp: Desconews' },
+    live_pex: { url: 'https://livestream.com/accounts/8954674/events/11194068/player', desc: 'Descomplica: Live Projeto de Extensão' },
     default: () => {
       document.body.style.opacity = 0;
       alert('Site não encontrado, tente novamente')
