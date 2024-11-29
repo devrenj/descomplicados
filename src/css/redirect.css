@@ -39,6 +39,12 @@ a {
   font-size: 40px;
 }
 
+#box {
+  display: flex;
+  flex-direction: row;
+  max-width: 600px;
+}
+
 #voltar {
   display: flex;
   padding: 0 40px;
@@ -64,4 +70,8 @@ a {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+}
+
+#pontilhado {
+  transition: all .5s ease-in-out;
 }
