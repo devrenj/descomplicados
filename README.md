@@ -1,6 +1,6 @@
 ![Logo Descomplicados](./src/img/LogoDescomplicados.png)
 
-Grupo de desenvolvimento da faculdade de ADS, feito de aluno para aluno
+Grupo de desenvolvimento da faculdade de ADS
 
 Como a faculdade não faz juz ao nome e só...
 
