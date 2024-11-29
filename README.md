@@ -29,7 +29,8 @@ Tabela de Conteúdo:
   - [🔹 Concluíndo as atividades com eficiência](#-concluíndo-as-atividades-com-eficiência)
   - [🔹 Perdi as lives, e agora?](#-perdi-as-lives-e-agora)
   - [🔹 Gabaritos](#-gabaritos)
-- [� Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
+- [🔷 Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
+  - [🔷 Se algum link não funcionar](#-se-algum-link-não-funcionar)
   - [LICENSE](#license)
 
 # 🔷 Geral
@@ -151,7 +152,7 @@ Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acon
 
 Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do portal do aluno. ([veja o tópico acima](#-iasmin))
 
-Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
+Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [Grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
 ## 🔹 O que é PEX?
 
@@ -202,7 +203,7 @@ Este é o site oficial da faculdade para as dúvidas que são enviadas pelo form
 
 Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a PEX, regras, ideias e outros tópicos interessantes:
 
-<https://livestream.com/accounts/8954674/events/11194068/player>
+[+ Ir para a Live do Projeto de Extensão](./redirect.html?site=live_pex)
 
 > Agradecimento ao membro do grupo: Ju
 
@@ -210,9 +211,9 @@ Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a 
 
 Se de todas as opções acima, não conseguir resolver seus problemas, entre em contato com este número, se o assunto não for com este departamento, eles redirecionam você para o correto:
 
-**Desconews** (21)99792-7656
+[+ Abrir a conversa no Whatsapp](./redirect.html?site=desconews)
 
-[+ Link para abrir a conversa no Whatsapp](https://wa.me/5521997927656)
+**Desconews** (21)99792-7656
 
 ~Descomplica Graduação
 
@@ -283,6 +284,10 @@ Gosto muito de ajudar a galera a se desenvolver e tenho um prazer pessoal nisso,
 Feito de aluno para aluno 💚
 
 [+ Ir para Meu Site](./redirect.html?site=renj)
+
+## 🔷 Se algum link não funcionar
+
+Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
 
 ## LICENSE
 
