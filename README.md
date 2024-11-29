@@ -211,7 +211,7 @@ A pontuação é dividida da seguinte forma:
 - Últimos dois exercícios são complementares (não valem nota)
 - Atividades Práticas/Pensar & Responder (4 pontos)
 - Listas de revisão (3 pontos)
-- Prova (2 pontos)
+- Provas Finais (pontuação variante)
 
 ![Distribuição de atividades](./src/img/distribuicao-atividades.png)
 
@@ -223,8 +223,8 @@ A média é de **6 pontos** para ser aprovado na disciplina
 2. Faça os exercícios da primeira parcial (os 7 primeiros)
 3. Faça as atividades práticas e pensar & responder da primeira parcial (2 pontos)
 4. Faça os exercícios da segunda parcial (os 7 subsequentes)
-5. Faça as atividades práticas e pensar & responder da segunda parcial (2 pontos)
-6. Caso não atingir a pontuação para aprovação, faça a prova (2 pontos)
+5. Faça as `Atividades Práticas/Pensar & Responder` da segunda parcial (2 pontos)
+6. Caso não atingir a pontuação para aprovação, faça as `Provas Finais`
 
 Obs.: Se tiver atingido a média, **não é necessário fazer a prova**! Eu mesmo opto por fazer para testar meus conhecimentos.
 
