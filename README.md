@@ -4,6 +4,26 @@ Como a faculdade não faz juz ao nome e só...
 
 O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
+Tabela de Conteúdo:
+- [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp)
+- [🔹 Discord](#-discord)
+- [🔹 Senha das Lives da Descomplica](#-senha-das-lives-da-descomplica)
+- [🔹 Google Drive](#-google-drive)
+- [🔹 Babysteps](#-babysteps)
+- [🔹 Cursos](#-cursos)
+- [🔹 IA.smin](#-iasmin)
+- [🔹 Abrindo um ticket](#-abrindo-um-ticket)
+- [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
+- [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
+- [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
+- [🔹 Live sobre PEX](#-live-sobre-pex)
+- [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
+- [🔹 Não tem um linkedin?](#-não-tem-um-linkedin)
+- [🔹 Gabaritos](#-gabaritos)
+- [🔹 Concluindo as atividades com eficiência](#-concluindo-as-atividades-com-eficiência)
+- [🔹 Desenvolvedor](#-desenvolvedor)
+- [LICENSE](#license)
+
 ## 🔹 Grupo de Whatsapp
 
 [+ Ir para Whatsapp: Descomplicados](./redirect.html?site=grupo)
@@ -182,6 +202,31 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 - <https://discord.gg/RtSBvm3HQ3>
 
 - <https://discord.gg/6DbP5vx5mt>
+
+## 🔹 Concluindo as atividades com eficiência
+
+A pontuação é dividida da seguinte forma: 
+- Os 7 primeiros exercícios são da primeira parcial (1 ponto)
+- Próximos 7 exercícios são da segunda parcial (1 ponto)
+- Últimos dois exercícios são complementares (não valem nota)
+- Atividades Práticas/Pensar & Responder (4 pontos)
+- Listas de revisão (3 pontos)
+- Prova (2 pontos)
+
+![Distribuição de atividades](./src/img/distribuicao-atividades.png)
+
+_Fonte: Disciplinas do Aluno Descomplica_
+
+A média é de **6 pontos** para ser aprovado na disciplina
+
+1. Logo de cara, faça as duas `Listas de Revisão`, isso já te garante metade da média! (3 pontos)
+2. Faça os exercícios da primeira parcial (os 7 primeiros)
+3. Faça as atividades práticas e pensar & responder da primeira parcial (2 pontos)
+4. Faça os exercícios da segunda parcial (os 7 subsequentes)
+5. Faça as atividades práticas e pensar & responder da segunda parcial (2 pontos)
+6. Caso não atingir a pontuação para aprovação, faça a prova (2 pontos)
+
+Obs.: Se tiver atingido a média, **não é necessário fazer a prova**! Eu mesmo opto por fazer para testar meus conhecimentos.
 
 ## 🔹 Desenvolvedor
 
