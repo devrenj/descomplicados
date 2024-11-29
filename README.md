@@ -213,11 +213,13 @@ Se de todas as opções acima, não conseguir resolver seus problemas, entre em 
 
 [+ Abrir a conversa no Whatsapp](./redirect.html?site=desconews)
 
+```diff
 **Desconews** (21)99792-7656
 
-~Descomplica Graduação
++ ~Descomplica Graduação
 
-Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
+- Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
+```
 
 > Agradecimento ao membro do grupo: Taíssa
 
