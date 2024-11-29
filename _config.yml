@@ -1,5 +1,5 @@
-name: ""
-title: null
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Descomplicados
+description: Grupo de desenvolvimento da faculdade de ADS, feito de aluno para aluno
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
