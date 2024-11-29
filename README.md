@@ -214,7 +214,7 @@ Se de todas as opções acima, não conseguir resolver seus problemas, entre em 
 [+ Abrir a conversa no Whatsapp](./redirect.html?site=desconews)
 
 ```diff
-**Desconews** (21)99792-7656
+Desconews (21)99792-7656
 
 + ~Descomplica Graduação
 
