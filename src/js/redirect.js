@@ -1,12 +1,12 @@
 const tempo = document.querySelector('#tempo');
-const pontilhado = document.querySelector('#pontilhado');
+const pontilhado = document.querySelectorAll('#pontilhado');
 const body = document.querySelector('body');
 const voltar = document.querySelector('#voltar');
 const params = new URLSearchParams(window.location.search).get('site');
 const principal = document.querySelector('#principal');
+const segundos = 10; // Tempo global
 
 async function redirecionar(site) {
-  const segundos = 6;
 
   const links = {
     babysteps: { url: 'https://renj.dev.br/babysteps', desc: 'Babysteps: Comece por aqui' },
@@ -44,18 +44,22 @@ voltar.addEventListener('click', () => {
   window.location.href = 'https://descomplicados.renj.dev.br/';
 });
 
-let segundos = 5;
-let pontos = 3;
+let pontos = pontilhado.length - 1;
+
 let efeitoPontilhado = setInterval(() => {
-  pontos--;
-  let texto = '...';
-  pontilhado.innerText = texto.slice(pontos);
-  if (pontos < 1) {
-    pontos = 3;
+  if (pontos >= 0) {
+    pontilhado[pontos].style.opacity = 0; 
+    pontos--;
+  } else {
+    pontilhado.forEach((ponto) => {
+      ponto.style.opacity = 1;
+    });
+    pontos = pontilhado.length - 1;
   }
 }, 1000);
 
 let timer = setInterval(() => {
+  
   tempo.innerText = `${segundos > 1 ? ` em ${segundos} segundos` : ` em ${segundos} segundo`
     }`;
   segundos--;
