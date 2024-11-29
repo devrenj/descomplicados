@@ -27,9 +27,10 @@ Use as salas disponíveis e caso necessite de mais, contate o administrador.
 
 `aluno`
 
-_Fonte:_
 
 ![Senha das Lives: aluno](src/img/thumb-live-monitoria.png)
+
+_Fonte: Portal do Aluno Descomplica_
 
 ## 🔹 Google Drive
 
