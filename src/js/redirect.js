@@ -4,7 +4,8 @@ const body = document.querySelector('body');
 const voltar = document.querySelector('#voltar');
 const params = new URLSearchParams(window.location.search).get('site');
 const principal = document.querySelector('#principal');
-const segundos = 10; // Tempo global
+const redireconarManualmente = document.querySelector('#redireconarManualmente');
+let segundos = 10; // Tempo global
 
 async function redirecionar(site) {
 
@@ -30,7 +31,8 @@ async function redirecionar(site) {
   }
 
   if (links[site]?.url) {
-    principal.innerText = links[site].desc ?? 'Site não encontrado';
+    redireconarManualmente.href = links[site].url
+    principal.innerText = links[site].desc ?? (site.at(0).toUpperCase() + site.slice(1));
     await new Promise((resolve) => setTimeout(resolve, segundos * 1000));
     window.location.href = links[site].url
   } else {
@@ -59,7 +61,6 @@ let efeitoPontilhado = setInterval(() => {
 }, 1000);
 
 let timer = setInterval(() => {
-  
   tempo.innerText = `${segundos > 1 ? ` em ${segundos} segundos` : ` em ${segundos} segundo`
     }`;
   segundos--;
