@@ -213,12 +213,12 @@ Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a 
 
 Se de todas as opções acima, não conseguir resolver seus problemas, entre em contato com este número, se o assunto não for com este departamento, eles redirecionam você para o correto:
 
-```diff
+```
 Desconews (21)99792-7656
 
-+ ~Descomplica Graduação
+~Descomplica Graduação
 
-- Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
+Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 ```
 
 > Agradecimento ao membro do grupo: Taíssa
