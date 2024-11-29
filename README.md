@@ -80,7 +80,7 @@ _Fonte: <https://no.descomplica.com.br>_
 ## 🔹 Onde encontro a PEX?
 
 Logo na página inicial do portal do aluno, no menu lateral esquerdo, você encontra a opção `Carreira`
-> [!WARNING] Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
+> Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
 
 ![Tela inicial da descomplica, menu lateral](./src/img/caminho-pex.png)
 
