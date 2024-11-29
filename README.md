@@ -261,6 +261,8 @@ Escolha a disciplina desejada e acesse a aba `Aula ao vivo`:
 
 ![Localizando a aba Aula ao vivo](./src/img/aba-aula-ao-vivo.png)
 
+As reprises estarão bem aqui!
+
 ## 🔹 Gabaritos
 
 ⚠️ Nenhum gabarito é de minha autoria.
