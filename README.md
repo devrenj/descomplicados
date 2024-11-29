@@ -291,4 +291,4 @@ Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grup
 
 ## LICENSE
 
-Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](./redirect.html?site=github)) under MIT License
+Copyright &copy; 2024 Roberto Nóbrega Jr. ([@devrenj](./redirect.html?site=github)) under MIT License
