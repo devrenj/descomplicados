@@ -47,11 +47,11 @@ Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação.
 
 ## 🔹 Discord
 
+[+ Ir para Discord: Descomplicados](./redirect.html?site=discord)
+
 Espaço para conversas por áudio, estudos e compartilhamento de tela.
 
 Use as salas disponíveis e caso necessite de mais, contate o administrador.
-
-[+ Ir para Discord: Descomplicados](./redirect.html?site=discord)
 
 ## 🔹 Google Drive
 
@@ -193,25 +193,25 @@ Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive a
 
 ## 🔹 Tira-dúvidas da PEX com perguntas dos alunos
 
-Este é o site oficial da faculdade para as dúvidas que são enviadas pelo formulário dispinível em meio aos links em `Orientações do passo a passo` dentro dos detalhes da PEX:
-
 <https://bit.ly/resp-duvidas-PEX>
+
+Este é o site oficial da faculdade para as dúvidas que são enviadas pelo formulário dispinível em meio aos links em `Orientações do passo a passo` dentro dos detalhes da PEX:
 
 > Agradecimento ao membro do grupo: Guilherme
 
 ## 🔹 Live sobre PEX
 
-Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a PEX, regras, ideias e outros tópicos interessantes:
-
 [+ Ir para a Live do Projeto de Extensão](./redirect.html?site=live_pex)
+
+Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a PEX, regras, ideias e outros tópicos interessantes:
 
 > Agradecimento ao membro do grupo: Ju
 
 ## 🔹 Contato Descomplica: Desconews
 
-Se de todas as opções acima, não conseguir resolver seus problemas, entre em contato com este número, se o assunto não for com este departamento, eles redirecionam você para o correto:
-
 [+ Abrir a conversa no Whatsapp](./redirect.html?site=desconews)
+
+Se de todas as opções acima, não conseguir resolver seus problemas, entre em contato com este número, se o assunto não for com este departamento, eles redirecionam você para o correto:
 
 ```diff
 Desconews (21)99792-7656
@@ -279,13 +279,13 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 
 # 🔷 Sobre o Desenvolvedor
 
+[+ Ir para Meu Site](./redirect.html?site=renj)
+
 Me chamam de **void Beto( );** 👨‍💻
 
 Gosto muito de ajudar a galera a se desenvolver e tenho um prazer pessoal nisso, passo uma boa parte do meu tempo criando conteúdos para quem realmente quer aprender e claro, a cada dia eu também aprendo mais!
 
 Feito de aluno para aluno 💚
-
-[+ Ir para Meu Site](./redirect.html?site=renj)
 
 ## 🔷 Se algum link não funcionar
 
