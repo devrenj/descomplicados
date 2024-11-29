@@ -29,9 +29,7 @@ Use as salas disponíveis e caso necessite de mais, contate o administrador.
 
 _Fonte:_
 
-<div align="center">
 ![Senha das Lives: aluno](src/img/thumb-live-monitoria.png)
-</div>
 
 ## 🔹 Google Drive
 
