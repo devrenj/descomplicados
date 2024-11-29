@@ -69,6 +69,40 @@ Cursos gratuitos pelo YouTube e links de canais* do Telegram que são compartilh
 
 ***Não são de minha autoria**
 
+## 🔹 IA.smin
+
+A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do portal do aluno:
+
+![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
+
+_Fonte: Portal do Aluno Descomplica_
+
+(Inclusive, aqui fica a `Central de Tickets` também)
+
+Lá você encontrará esta linda e simpática robôzinha:
+
+![Foto da secretária IA.smin da Descomplica](./src/img/ia-smin.png)
+
+_Fonte: Central de Ajuda Descomplica_
+
+Com ela você consegue vários tipos de ajuda, inclusive acessos às plataformas que a faculdade disponibiliza, e-mail institucional, abertura de **tickets** e etc.
+
+## 🔹 Abrindo um ticket
+
+Um ticket é a protocolação de uma dúvida ou problema que você abre junto da faculdade.
+
+Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus dados, sem seguida clique em `Estudos > Orient. Profissional > Falar com a Coord` como na imagem abaixo:
+
+![Instruções para abrir um Ticket](./src/img/chat-ia-smin.png)
+
+_Fonte: Chat com IA.smin, na Central de Ajuda Descomplica_
+
+Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
+
+Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do portal do aluno (veja o tópico acima)
+
+Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
+
 ## 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
 
 [+ Ir para Perguntas Frequentes – Descomplica](./redirect.html?site=descomplica_faq)
@@ -113,38 +147,6 @@ Nessa live foram abordados assuntos sobre os principais objetivos de se fazer a 
 <https://livestream.com/accounts/8954674/events/11194068/player>
 
 > Agradecimento ao membro do grupo: Ju
-
-## 🔹 IA.smin e Tickets
-
-A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do portal do aluno:
-
-![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
-
-_Fonte: Portal do Aluno Descomplica_
-
-(Inclusive, aqui fica a `Central de Tickets` também)
-
-Lá você encontrará esta linda e simpática robôzinha:
-
-![Foto da secretária IA.smin da Descomplica](./src/img/ia-smin.png)
-
-_Fonte: Central de Ajuda Descomplica_
-
-Com ela você consegue vários tipos de ajuda, inclusive acessos às plataformas que a faculdade disponibiliza, e-mail institucional, abertura de **tickets** e etc.
-
-## 🔹 Abrindo um ticket
-
-Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus dados, sem seguida clique em `Estudos > Orient. Profissional > Falar com a Coord` como na imagem abaixo:
-
-![Instruções para abrir um Ticket](./src/img/chat-ia-smin.png)
-
-_Fonte: Chat com IA.smin, na Central de Ajuda Descomplica_
-
-Logo em seguida ela te pede para deixar uma mensagem explicando o que está acontecendo, explique e siga os próximos passos para gerar seu ticket.
-
-Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do portal do aluno (veja o tópico acima)
-
-Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
 ## 🔹 Contato Descomplica: Desconews
 
