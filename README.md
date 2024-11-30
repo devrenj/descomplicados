@@ -1,6 +1,4 @@
-Como a faculdade não faz juz ao nome e só...
-
- **COMPLICA** 🤡
+Como a faculdade não faz juz ao nome e só... **COMPLICA** 🤡
 
 O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
