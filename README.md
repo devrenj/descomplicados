@@ -31,7 +31,7 @@ Tabela de Conteúdo:
   - [🔹 Perdi as lives, e agora?](#-perdi-as-lives-e-agora)
   - [🔹 Gabaritos](#-gabaritos)
 - [🔷 Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
-  - [🔷 Se algum link não funcionar](#-se-algum-link-não-funcionar)
+  - [🔷 Caso algum link não funcionar](#-caso-algum-link-não-funcionar)
   - [LICENSE](#license)
 
 # 🔷 Geral
@@ -309,9 +309,9 @@ Me chamam de **void Beto( );** 👨‍💻
 
 Gosto muito de ajudar a galera a se desenvolver e tenho um prazer pessoal nisso, passo uma boa parte do meu tempo criando conteúdos para quem realmente quer aprender e claro, a cada dia eu também aprendo mais!
 
-Feito de aluno para aluno 💚
+Feito de aluno para aluno 💙
 
-## 🔷 Se algum link não funcionar
+## 🔷 Caso algum link não funcionar
 
 Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
 
