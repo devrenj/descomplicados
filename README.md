@@ -23,6 +23,7 @@ Tabela de Conteúdo:
   - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
   - [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
   - [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
+  - [🔹 Onde entregar a PEX?](#-onde-entregar-a-pex)
   - [🔹 Live sobre PEX](#-live-sobre-pex)
   - [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
   - [🔹 Pontuação das Atividades](#-pontuação-das-atividades)
@@ -198,6 +199,21 @@ Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive a
 Este é o site oficial da faculdade para as dúvidas que são enviadas pelo formulário dispinível em meio aos links em `Orientações do passo a passo` dentro dos detalhes da PEX:
 
 > Agradecimento ao membro do grupo: Guilherme
+
+## 🔹 Onde entregar a PEX?
+
+Antes leia o tópico [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+Após ter encontrado as `Orientações do passo a passo`, role até o final da página, o último link da seção `Preencher o Formulário online` é onde você pode enviar a PEX.
+
+**Mas fique atento!** Você só poderá mandar uma vez!
+
+Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o formulário só aceita o envio de um único arquivo.
+
+> Agradecimento ao membro do grupo: Victor Menezes
+
+Outra ideia também foi a de embutir tudo em um único arquivo PDF e enviar
+
+> Agradecimento ao membro do grupo: João Victor
 
 ## 🔹 Live sobre PEX
 
