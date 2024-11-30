@@ -207,9 +207,15 @@ Após ter encontrado as `Orientações do passo a passo`, role até o final da p
 
 **Mas fique atento!** Você só poderá mandar uma vez!
 
+![Instruções de entrega da PEX](./src/img/instrucoes-entrega-pex.jpg)
+
+_Fonte: Mensagem Descomplica_
+
+> Agredecimento ao membro: Nayza
+
 Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o formulário só aceita o envio de um único arquivo.
 
-> Agradecimento ao membro do grupo: Victor Menezes
+> Agradecimento ao membro do grupo: Victor Castilho [@VictorCarrilhoDev](https://github.com/VictorCarrilhoDev)
 
 Outra ideia também foi a de embutir tudo em um único arquivo PDF e enviar
 
@@ -294,7 +300,7 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 - <https://discord.gg/RtSBvm3HQ3>
 
 - <https://discord.gg/6DbP5vx5mt>
-
+  
 # 🔷 Sobre o Desenvolvedor
 
 [+ Ir para Meu Site](./redirect.html?site=renj)
