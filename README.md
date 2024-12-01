@@ -14,6 +14,7 @@ Tabela de Conteúdo:
   - [🔹 Não tem um linkedin?](#-não-tem-um-linkedin)
   - [🔹 ABNT para trabalhos acadêmicos](#-abnt-para-trabalhos-acadêmicos)
 - [🔷 ~~Des~~COMPLICA](#-descomplica)
+  - [🔹 Calendário](#-calendário)
   - [🔹 Senha das Lives da Descomplica](#-senha-das-lives-da-descomplica)
   - [🔹 IA.smin](#-iasmin)
   - [🔹 Abrindo um ticket](#-abrindo-um-ticket)
@@ -110,18 +111,26 @@ Escolhi esse modelo da UFRA (fonte: Google) pois está muito bem elaborado e exp
 
 # 🔷 ~~Des~~COMPLICA
 
+## 🔹 Calendário
+
+Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação dos eventos do seu curso.
+
+![Página inicial, seção de eventos](./src/img/inicio-calendario.png)
+
+_Fonte: Portal do Aluno Descomplica_
+
 ## 🔹 Senha das Lives da Descomplica
 
 `aluno`
 
 
-![Senha das Lives: aluno](src/img/thumb-live-monitoria.png)
+![Senha das Lives: aluno](./src/img/thumb-live-monitoria.png)
 
 _Fonte: Portal do Aluno Descomplica_
 
 ## 🔹 IA.smin
 
-A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do portal do aluno:
+A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do `Portal do Aluno`:
 
 ![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
 
@@ -149,7 +158,7 @@ _Fonte: Chat com IA.smin, na Central de Ajuda Descomplica_
 
 Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
 
-Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do portal do aluno. ([veja o tópico acima](#-iasmin))
+Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do `Portal do Aluno`. ([veja o tópico acima](#-iasmin))
 
 Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [Grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
@@ -171,7 +180,7 @@ _Fonte: <https://no.descomplica.com.br>_
 
 ## 🔹 Onde encontro a PEX?
 
-Logo na página inicial do portal do aluno, no menu lateral esquerdo, você encontra a opção `Carreira`
+Logo na página inicial do `Portal do Aluno`, no menu lateral esquerdo, você encontra a opção `Carreira`
 > Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
 
 ![Tela inicial da descomplica, menu lateral](./src/img/menu-lateral-carreira.png)
@@ -245,17 +254,24 @@ Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 
 ## 🔹 Pontuação das Atividades
 
+![Composição das notas](./src/img/notas-composicao.png)
+
+_Fonte: [Calendário](#-calendário) do Portal do Aluno Descomplica_
+
 A pontuação é dividida da seguinte forma: 
 - Os 7 primeiros exercícios são da primeira parcial (1 ponto)
 - Próximos 7 exercícios são da segunda parcial (1 ponto)
 - Últimos dois exercícios são complementares (não valem nota)
 - Atividades Práticas/Pensar & Responder (4 pontos)
-- Listas de revisão (3 pontos)
-- Provas Finais (pontuação variante)
+- Listas de revisão 1 e 2 (3 pontos)
+- Prova Final (2 pontos)
+- Aproveitamento (1 ponto)
 
-A média é de **6 pontos** para ser aprovado em cada disciplina.
+Você pode alcançar um total de 12 pontos mas serão considerados no **máximo 10 pontos**.
 
-![Distribuição de atividades](./src/img/distribuicao-atividades.png)
+Obs.: A média é de **6 pontos** para ser aprovado em cada disciplina.
+
+![Distribuição de atividades](./src/img/notas-distribuicao-atividades.png)
 
 _Fonte: Disciplinas do Aluno Descomplica_
 
@@ -266,7 +282,7 @@ _Fonte: Disciplinas do Aluno Descomplica_
 3. Faça as atividades práticas e pensar & responder da primeira parcial (2 pontos)
 4. Faça os exercícios da segunda parcial (os 7 subsequentes)
 5. Faça as `Atividades Práticas/Pensar & Responder` da segunda parcial (2 pontos)
-6. Caso não atingir a pontuação para aprovação, faça as `Provas Finais`
+6. Caso não atingir a pontuação para aprovação, faça a `Prova Final`
 
 Obs.: Se tiver atingido a média, **não é necessário fazer a prova**!
 Eu mesmo opto por fazer para testar meus conhecimentos.
