@@ -15,12 +15,15 @@ Tabela de Conteúdo:
   - [🔹 Não tem um linkedin?](#-não-tem-um-linkedin)
   - [🔹 ABNT para trabalhos acadêmicos](#-abnt-para-trabalhos-acadêmicos)
 - [🔷 ~~Des~~COMPLICA](#-descomplica)
+  - [🔹 Portal do Aluno](#-portal-do-aluno)
   - [🔹 Calendário](#-calendário)
   - [🔹 Senha das Lives da Descomplica](#-senha-das-lives-da-descomplica)
   - [🔹 IA.smin](#-iasmin)
   - [🔹 Abrindo um ticket](#-abrindo-um-ticket)
   - [🔷 PEX](#-pex)
     - [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
+      - [🔹 Cartão da PEX](#-cartão-da-pex)
+      - [🔹 Orientações do passo a passo](#-orientações-do-passo-a-passo)
     - [🔹 ONDE entregar a PEX?](#-onde-entregar-a-pex)
     - [🔹 COMO entregar a PEX?](#-como-entregar-a-pex)
     - [🔹 QUANDO entregar a PEX?](#-quando-entregar-a-pex)
@@ -32,9 +35,9 @@ Tabela de Conteúdo:
   - [🔹 Concluíndo as atividades com eficiência](#-concluíndo-as-atividades-com-eficiência)
   - [🔹 Perdi as lives, e agora?](#-perdi-as-lives-e-agora)
   - [🔹 Gabaritos](#-gabaritos)
-- [🔷 Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
-  - [🔷 Caso algum link não funcionar](#-caso-algum-link-não-funcionar)
+  - [🔷 Encontrou algum bug ou não encontrou informação específica?](#-encontrou-algum-bug-ou-não-encontrou-informação-específica)
   - [🔷 Tecnologias utilizadas no projeto](#-tecnologias-utilizadas-no-projeto)
+- [🔷 Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
   - [LICENSE](#license)
 
 # 🔷 Descomplicados
@@ -125,6 +128,12 @@ Escolhi esse modelo da UFRA (fonte: Google) pois está muito bem elaborado e exp
 
 # 🔷 ~~Des~~COMPLICA
 
+## 🔹 Portal do Aluno
+
+[+ Ir para Portal do Aluno](./redirect.html?site=portal_do_aluno)
+
+Página inicial do seu curso, aqui é a central de tudo o que você precisa: Central de ajuda, Calendário, Fórum, Secretaria, Lives, Disciplinas, etc.
+
 ## 🔹 Calendário
 
 Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação dos eventos do seu curso.
@@ -201,11 +210,15 @@ Logo ao acessar, você verá este menu lateral:
 
 *Fonte: Plataforma Workalove da Descomplica*
 
+#### 🔹 Cartão da PEX
+
 Clicando em `Aprendizagem` você encontrará a aba `Projeto de Extensão` e lá consta os projetos em que você está inscrito, incluindo a data de entrega, terá um `Cartão da PEX` como na imagem abaixo:
 
 ![Cartão mostrando acesso a PEX](src/img/pex-detalhes.png)
 
 *Fonte: Plataforma Workalove da Descomplica*
+
+#### 🔹 Orientações do passo a passo
 
 Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive as `Orientações do passo a passo` que estarão ao final da página, caso estes arquivos não sejam suficientes para esclarecer todas suas dúvidas, veja o tópico a seguir:
 
@@ -213,7 +226,7 @@ Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive a
 
 **Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
-Após ter encontrado as `Orientações do passo a passo`, role até o final da página, o último link da seção `Preencher o Formulário online`, será onde você pode enviar a PEX.
+Após ter acessado as `[Orientações do passo a passo](#-orientações-do-passo-a-passo)`, role até o final da página, o último link da seção `Preencher o Formulário online`, será onde você pode enviar a PEX.
 
 **Mas fique atento!** Você só poderá mandar uma vez!
 
@@ -233,7 +246,7 @@ Alguns alunos optaram por zipar todos os documentos que você precisará reunir,
 
 > Agradecimento ao membro do grupo: Victor Castilho [@VictorCarrilhoDev](https://github.com/VictorCarrilhoDev)
 
-Outra ideia também foi a de embutir todo conteúdo em um único documento PDF e enviar pelo [formulário](#-onde-entregar-a-pex)
+Outra ideia também foi a de inserir todo conteúdo em um único documento PDF
 
 > Agradecimento ao membro do grupo: João Victor
 
@@ -241,13 +254,13 @@ Outra ideia também foi a de embutir todo conteúdo em um único documento PDF e
 
 **Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
-A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no `Cartão da PEX`.
+A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no `[Cartão da PEX](#-cartão-da-pex)`.
 
 ### 🔹 Tira-dúvidas da PEX com perguntas dos alunos
 
 [+ Ir para Retorno das dúvidas sobre PEX](./redirect.html?site=tira_duvidas_pex)
 
-Este é o site oficial da faculdade para as dúvidas que são enviadas pelo formulário dispinível em meio aos links em `Orientações do passo a passo` dentro dos detalhes da PEX:
+Este link é oficial da faculdade Descomplica para retorno das dúvidas que são enviadas pelos alunos através do formulário disponível em meio aos links em `[Orientações do passo a passo](#-orientações-do-passo-a-passo)`.
 
 > Agradecimento ao membro do grupo: Guilherme
 
@@ -346,6 +359,14 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 
 - [ADS 2023.4](./redirect.html?site=gabarito_discord3)
   
+## 🔷 Encontrou algum bug ou não encontrou informação específica?
+
+Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
+
+## 🔷 Tecnologias utilizadas no projeto
+
+Github Pages - Git - Jekyll - Markdown - GIMP - Microsoft Paint - VS Code - HTML - Javascript - Codeium
+
 # 🔷 Sobre o Desenvolvedor
 
 [+ Ir para Meu Site](./redirect.html?site=renj)
@@ -355,14 +376,6 @@ Me chamam de **void Beto( );** 👨‍💻
 Gosto muito de ajudar a galera a se desenvolver e tenho um prazer pessoal nisso, passo uma boa parte do meu tempo criando conteúdos para quem realmente quer aprender e claro, a cada dia eu também aprendo mais!
 
 Feito de aluno para aluno 💙
-
-## 🔷 Caso algum link não funcionar
-
-Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
-
-## 🔷 Tecnologias utilizadas no projeto
-
-Github Pages - Git - Jekyll - Markdown - GIMP - Microsoft Paint - VS Code - HTML - Javascript - Codeium
 
 ## LICENSE
 
