@@ -29,6 +29,7 @@ Tabela de Conteúdo:
     - [🔹 QUANDO entregar a PEX?](#-quando-entregar-a-pex)
     - [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
     - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
+    - [🔹 Manual da Pex](#-manual-da-pex)
     - [🔹 Live sobre PEX](#-live-sobre-pex)
   - [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
   - [🔹 Pontuação das Atividades](#-pontuação-das-atividades)
@@ -271,7 +272,15 @@ Este link é oficial da faculdade Descomplica para retorno das dúvidas que são
 
 [+ Ir para Perguntas Frequentes – Descomplica](./redirect.html?site=descomplica_faq)
 
-Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX, aqui também tem o [Manual do PEX](./redirect.html?site=descomplica_pex) onde você pode conhecer tudo o que precisa saber sobre o assunto, descomplique-se já!
+Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX.
+
+_Fonte: <https://no.descomplica.com.br>_
+
+### 🔹 Manual da Pex
+
+[+ Ir para Manual da PEX](./redirect.html?site=descomplica_pex)
+
+Nesse link você encontra o `Manual da PEX`, onde você vai saber tudo o que precisa sobre o assunto, descomplique-se já!
 
 _Fonte: <https://no.descomplica.com.br>_
 
