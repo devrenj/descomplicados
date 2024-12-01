@@ -90,7 +90,7 @@ Explore se estiver procurando conteúdo e informação!
 
 [+ Ir para Babysteps](./redirect.html?site=babysteps)
 
-Muito conteúdo sobre Programação e sequencia de dicas úteis para você se tornar um bom programador, mergulhe nesse conhecimento!
+Muito conteúdo e sequencia de dicas úteis para você começar bem no universo da `Programação`, mergulhe nesse conhecimento!
 - Dicas de como fazer 
 - O que fazer
 - Por onde começar
