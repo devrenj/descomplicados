@@ -245,7 +245,7 @@ Após ter acessado as `[Orientações do passo a passo](#-orientações-do-passo
 
 Siga as instruções disponíveis no material da sua PEX, algumas informações podem mudar, portanto é sempre bom se orientar por lá.
 
-Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o [formulário](#-onde-entregar-a-pex) só aceita o envio de um único arquivo.
+Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o [formulário de envio](#-onde-entregar-a-pex) só aceita o envio de um único arquivo.
 
 > Agradecimento ao membro do grupo: Victor Castilho [@VictorCarrilhoDev](https://github.com/VictorCarrilhoDev)
 
