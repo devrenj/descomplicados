@@ -33,6 +33,9 @@ Tabela de Conteúdo:
   - [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
   - [🔹 Pontuação das Atividades](#-pontuação-das-atividades)
   - [🔹 Concluíndo as atividades com eficiência](#-concluíndo-as-atividades-com-eficiência)
+  - [🔹 Parciais](#-parciais)
+    - [🔹 Primeira parcial](#-primeira-parcial)
+    - [🔹 Segunda parcial](#-segunda-parcial)
   - [🔹 Perdi as lives, e agora?](#-perdi-as-lives-e-agora)
   - [🔹 Gabaritos](#-gabaritos)
   - [🔷 Encontrou algum bug ou não encontrou informação específica?](#-encontrou-algum-bug-ou-não-encontrou-informação-específica)
@@ -136,11 +139,11 @@ Página inicial do seu curso, aqui é a central de tudo o que você precisa: Cen
 
 ## 🔹 Calendário
 
-Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação dos eventos do seu curso.
+Localizado na tela inicial do [Portal do Aluno](#-portal-do-aluno), logo abaixo da programação dos eventos do seu curso.
 
 ![Página inicial, seção de eventos](./src/img/inicio-calendario.png)
 
-*Fonte: Portal do Aluno Descomplica*
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 ## 🔹 Senha das Lives da Descomplica
 
@@ -149,15 +152,15 @@ Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação do
 
 ![Senha das Lives: aluno](./src/img/thumb-live-monitoria.png)
 
-*Fonte: Portal do Aluno Descomplica*
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 ## 🔹 IA.smin
 
-A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do `Portal do Aluno`:
+A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do [Portal do Aluno](#-portal-do-aluno):
 
 ![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
 
-*Fonte: Portal do Aluno Descomplica*
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 (Inclusive, aqui fica a `Central de Tickets` também)
 
@@ -181,7 +184,7 @@ Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus da
 
 Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
 
-Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do `Portal do Aluno`. ([veja o tópico acima](#-iasmin))
+Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na página inicial do [Portal do Aluno](#-portal-do-aluno). ([veja o tópico acima](#-iasmin))
 
 Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [Grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
@@ -195,12 +198,12 @@ A cada semestre é **obrigatório** a entrega de uma PEX.
 
 ### 🔹 Onde encontro a PEX?
 
-Logo na página inicial do `Portal do Aluno`, no menu lateral esquerdo, você encontra a opção `Carreira`
+Logo na página inicial do [Portal do Aluno](#-portal-do-aluno), no menu lateral esquerdo, você encontra a opção `Carreira`
 > Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
 
 ![Tela inicial da descomplica, menu lateral](./src/img/menu-lateral-carreira.png)
 
-*Fonte: Portal do Aluno Descomplica*
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 Você será redirecionado para a plataforma `Workalove`, além de cursos livres, lá você também tem auxilio para encontrar vagas de emprego, estágio e etc.
 
@@ -254,13 +257,13 @@ Outra ideia também foi a de inserir todo conteúdo em um único documento PDF
 
 **Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
-A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no `[Cartão da PEX](#-cartão-da-pex)`.
+A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no [Cartão da PEX](#-cartão-da-pex).
 
 ### 🔹 Tira-dúvidas da PEX com perguntas dos alunos
 
 [+ Ir para Retorno das dúvidas sobre PEX](./redirect.html?site=tira_duvidas_pex)
 
-Este link é oficial da faculdade Descomplica para retorno das dúvidas que são enviadas pelos alunos através do formulário disponível em meio aos links em `[Orientações do passo a passo](#-orientações-do-passo-a-passo)`.
+Este link é oficial da faculdade Descomplica para retorno das dúvidas que são enviadas pelos alunos através do formulário disponível em meio aos links em [Orientações do passo a passo](#-orientações-do-passo-a-passo).
 
 > Agradecimento ao membro do grupo: Guilherme
 
@@ -300,16 +303,16 @@ Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 
 ![Composição das notas](./src/img/notas-composicao.png)
 
-*Fonte: [Calendário](#-calendário) do Portal do Aluno Descomplica*
+*Fonte: [Calendário](#-calendário) do [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 A pontuação é dividida da seguinte forma: 
-- Os 7 primeiros exercícios são da primeira parcial (1 ponto)
-- Próximos 7 exercícios são da segunda parcial (1 ponto)
+- Os 7 primeiros exercícios são da [primeira parcial](#-primeira-parcial) (1 ponto)
+- Próximos 7 exercícios são da [segunda parcial](#-segunda-parcial) (1 ponto)
 - Últimos dois exercícios são complementares (não valem nota)
-- Atividades Práticas/Pensar & Responder (4 pontos)
-- Listas de revisão 1 e 2 (3 pontos)
-- Prova Final (2 pontos)
-- Aproveitamento (1 ponto)
+- `Atividades Práticas`/`Pensar & Responder` (4 pontos)
+- `Listas de revisão` 1 e 2 (3 pontos)
+- `Prova Final` (2 pontos)
+- `Aproveitamento` (1 ponto)
 
 Você pode alcançar um total de 12 pontos mas serão considerados no **máximo 10 pontos**.
 
@@ -322,14 +325,34 @@ Obs.: A média é de **6 pontos** para ser aprovado em cada disciplina.
 ## 🔹 Concluíndo as atividades com eficiência
 
 1. Logo de cara, faça as duas `Listas de Revisão`, isso já te garante metade da média! (3 pontos)
-2. Faça os exercícios da primeira parcial (os 7 primeiros)
-3. Faça as atividades práticas e pensar & responder da primeira parcial (2 pontos)
-4. Faça os exercícios da segunda parcial (os 7 subsequentes)
-5. Faça as `Atividades Práticas/Pensar & Responder` da segunda parcial (2 pontos)
+2. Faça os exercícios da [primeira parcial](#-primeira-parcial) (os 7 primeiros)
+3. Faça as `Atividades Práticas`/`Pensar & Responder` da [primeira parcial](#-primeira-parcial) (2 pontos)
+4. Faça os exercícios da [segunda parcial](#-segunda-parcial) (os 7 subsequentes)
+5. Faça as `Atividades Práticas`/`Pensar & Responder` da [segunda parcial](#-segunda-parcial) (2 pontos)
 6. Caso não atingir a pontuação para aprovação, faça a `Prova Final`
 
-Obs.: Se tiver atingido a média, **não é necessário fazer a prova**!
-Eu mesmo opto por fazer para testar meus conhecimentos.
+Observações:
+- A nota do aproveitamento será aplicada **automaticamente** conforme a complitude das tarefas.
+- Ao atingir 75% de complitude da disciplina, você poderá reivindicar o `mini-certificado` correspondente a ela.
+- Se tiver atingido a média, **não é necessário fazer a prova**! (Eu mesmo opto por fazer para testar meus conhecimentos e identificar pontos a melhorar)
+
+## 🔹 Parciais
+
+As parciais são prazos para entrega de atividades, localizadas na [Portal do Aluno](#-portal-do-aluno), em `Ínicio`, logo ao final da página.
+
+Cada `trimestre` tem duas parciais:
+
+### 🔹 Primeira parcial
+
+![Localizando a primeira parcial](src/img/inicio-primeira-parcial.png)
+
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
+
+### 🔹 Segunda parcial
+
+![Localizando a segunda parcial](src/img/inicio-segunda-parcial.png)
+
+*Fonte: [Portal do Aluno](#-portal-do-aluno) Descomplica*
 
 ## 🔹 Perdi as lives, e agora?
 
@@ -362,6 +385,8 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 ## 🔷 Encontrou algum bug ou não encontrou informação específica?
 
 Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
+
+_Não trabalho na Descomplica!_
 
 ## 🔷 Tecnologias utilizadas no projeto
 
