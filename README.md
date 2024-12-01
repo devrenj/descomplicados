@@ -2,7 +2,7 @@ Como a faculdade não faz juz ao nome e só... **COMPLICA** 🤡
 
 O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
-![Logo Descomplicados](./src/img/LogoDescomplicados.png)
+![Logo Descomplicados](./src/img/logo-descomplicados.png)
 
 Tabela de Conteúdo:
 - [🔷 Geral](#-geral)
@@ -20,10 +20,12 @@ Tabela de Conteúdo:
   - [🔹 IA.smin](#-iasmin)
   - [🔹 Abrindo um ticket](#-abrindo-um-ticket)
   - [🔹 O que é PEX?](#-o-que-é-pex)
-  - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
   - [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
+  - [🔹 ONDE entregar a PEX?](#-onde-entregar-a-pex)
+  - [🔹 COMO entregar a PEX?](#-como-entregar-a-pex)
+  - [🔹 QUANDO entregar a PEX?](#-quando-entregar-a-pex)
   - [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
-  - [🔹 Onde entregar a PEX?](#-onde-entregar-a-pex)
+  - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
   - [🔹 Live sobre PEX](#-live-sobre-pex)
   - [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
   - [🔹 Pontuação das Atividades](#-pontuação-das-atividades)
@@ -32,6 +34,7 @@ Tabela de Conteúdo:
   - [🔹 Gabaritos](#-gabaritos)
 - [🔷 Sobre o Desenvolvedor](#-sobre-o-desenvolvedor)
   - [🔷 Caso algum link não funcionar](#-caso-algum-link-não-funcionar)
+  - [🔷 Tecnologias utilizadas no projeto](#-tecnologias-utilizadas-no-projeto)
   - [LICENSE](#license)
 
 # 🔷 Geral
@@ -40,7 +43,7 @@ Tabela de Conteúdo:
 
 [+ Ir para Mural da PEX: Descomplicados](./redirect.html?site=mural_pex)
 
-**COLABORATIVO:** Aqui todos podem deixar o print do seu Projeto de Extensão (e views também se quiser) e visualizar como ficou o trabalho dos nossos colegas!
+**COLABORATIVO:** Aqui todos podem deixar o print da página inicial do seu Projeto de Extensão ou das views se preferir e visualizar como ficou o trabalho dos nossos colegas!
 
 Use o espaço à vontade!
 
@@ -127,8 +130,7 @@ Escolhi esse modelo da UFRA (fonte: Google) pois está muito bem elaborado e exp
 Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação dos eventos do seu curso.
 
 ![Página inicial, seção de eventos](./src/img/inicio-calendario.png)
-
-_Fonte: Portal do Aluno Descomplica_
+*Fonte: Portal do Aluno Descomplica*
 
 ## 🔹 Senha das Lives da Descomplica
 
@@ -136,24 +138,21 @@ _Fonte: Portal do Aluno Descomplica_
 
 
 ![Senha das Lives: aluno](./src/img/thumb-live-monitoria.png)
-
-_Fonte: Portal do Aluno Descomplica_
+*Fonte: Portal do Aluno Descomplica*
 
 ## 🔹 IA.smin
 
 A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do `Portal do Aluno`:
 
 ![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
-
-_Fonte: Portal do Aluno Descomplica_
+*Fonte: Portal do Aluno Descomplica*
 
 (Inclusive, aqui fica a `Central de Tickets` também)
 
 Lá você encontrará esta linda e simpática robôzinha:
 
-![Foto da secretária IA.smin da Descomplica](./src/img/ia-smin.png)
-
-_Fonte: Central de Ajuda Descomplica_
+![Foto da secretária IA.smin da Descomplica](./src/img/suporte-ia-smin.png)
+*Fonte: Central de Ajuda Descomplica*
 
 Com ela você consegue vários tipos de ajuda, inclusive acessos às plataformas que a faculdade disponibiliza, e-mail institucional, abertura de **tickets** e etc.
 
@@ -163,9 +162,8 @@ Um ticket é a protocolação de uma dúvida ou problema que você abre junto da
 
 Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus dados, sem seguida clique em `Estudos > Orient. Profissional > Falar com a Coord` como na imagem abaixo:
 
-![Instruções para abrir um Ticket](./src/img/chat-ia-smin.png)
-
-_Fonte: Chat com IA.smin, na Central de Ajuda Descomplica_
+![Instruções para abrir um Ticket](./src/img/suporte-chat-ia-smin.png)
+*Fonte: Chat com IA.smin, na Central de Ajuda Descomplica*
 
 Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
 
@@ -181,34 +179,60 @@ PEX é a abreviatura para Projeto de Extensão.
 
 A cada semestre é **obrigatório** a realização de uma PEX.
 
-## 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
-
-[+ Ir para Perguntas Frequentes – Descomplica](./redirect.html?site=descomplica_faq)
-
-Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX, aqui também tem o [Manual do PEX](./redirect.html?site=descomplica_pex) onde você pode conhecer tudo o que precisa saber sobre o assunto, descomplique-se já!
-
-_Fonte: <https://no.descomplica.com.br>_
-
 ## 🔹 Onde encontro a PEX?
 
 Logo na página inicial do `Portal do Aluno`, no menu lateral esquerdo, você encontra a opção `Carreira`
 > Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
 
 ![Tela inicial da descomplica, menu lateral](./src/img/menu-lateral-carreira.png)
-
-_Fonte: Portal do Aluno Descomplica_
+*Fonte: Portal do Aluno Descomplica*
 
 Você será redirecionado para a plataforma `Workalove`, além de cursos livres, lá você também tem auxilio para encontrar vagas de emprego, estágio e etc.
 
 Logo ao acessar, você verá este menu lateral:
 
-![Menu lateral com opções](./src/img/menu-lateral-pex-workalove.png)
+![Menu lateral com opções](./src/img/pex-menu-lateral-workalove.png)
+*Fonte: Plataforma Workalove da Descomplica*
 
-_Fonte: Plataforma Workalove da Descomplica_
+Clicando em `Aprendizagem` você encontrará a aba `Projeto de Extensão` e lá consta os projetos em que você está inscrito, incluindo a data de entrega, terá um `Cartão da PEX` como na imagem abaixo:
 
-Clicando em `Aprendizagem` você encontrará a aba `Projeto de Extensão` e lá consta os projetos em que você está inscrito, incluindo a data de entrega.
+![Cartão mostrando acesso a PEX](src/img/pex-detalhes.png)
+*Fonte: Plataforma Workalove da Descomplica*
 
 Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive as `Orientações do passo a passo` que estarão ao final da página, caso estes arquivos não sejam suficientes para esclarecer todas suas dúvidas, veja o tópico a seguir:
+
+## 🔹 ONDE entregar a PEX?
+
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+
+Após ter encontrado as `Orientações do passo a passo`, role até o final da página, o último link da seção `Preencher o Formulário online`, será onde você pode enviar a PEX.
+
+**Mas fique atento!** Você só poderá mandar uma vez!
+
+![Instruções de entrega da PEX](./src/img/pex-instrucoes-entrega.jpg)
+*Fonte: Mensagem Descomplica*
+
+> Agredecimento ao membro: Nayza
+
+## 🔹 COMO entregar a PEX?
+
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+
+Siga as instruções disponíveis no material da sua PEX, algumas informações podem mudar, portanto é sempre bom se orientar por lá.
+
+Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o [formulário](#-onde-entregar-a-pex) só aceita o envio de um único arquivo.
+
+> Agradecimento ao membro do grupo: Victor Castilho [@VictorCarrilhoDev](https://github.com/VictorCarrilhoDev)
+
+Outra ideia também foi a de embutir todo conteúdo em um único documento PDF e enviar pelo [formulário](#-onde-entregar-a-pex)
+
+> Agradecimento ao membro do grupo: João Victor
+
+## 🔹 QUANDO entregar a PEX?
+
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+
+A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no `Cartão da PEX`.
 
 ## 🔹 Tira-dúvidas da PEX com perguntas dos alunos
 
@@ -218,26 +242,13 @@ Este é o site oficial da faculdade para as dúvidas que são enviadas pelo form
 
 > Agradecimento ao membro do grupo: Guilherme
 
-## 🔹 Onde entregar a PEX?
+## 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
 
-Antes leia o tópico [Onde encontro a PEX?](#-onde-encontro-a-pex)!
-Após ter encontrado as `Orientações do passo a passo`, role até o final da página, o último link da seção `Preencher o Formulário online` é onde você pode enviar a PEX.
+[+ Ir para Perguntas Frequentes – Descomplica](./redirect.html?site=descomplica_faq)
 
-**Mas fique atento!** Você só poderá mandar uma vez!
+Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: PEX, aqui também tem o [Manual do PEX](./redirect.html?site=descomplica_pex) onde você pode conhecer tudo o que precisa saber sobre o assunto, descomplique-se já!
 
-![Instruções de entrega da PEX](./src/img/instrucoes-entrega-pex.jpg)
-
-_Fonte: Mensagem Descomplica_
-
-> Agredecimento ao membro: Nayza
-
-Alguns alunos optaram por zipar todos os documentos que você precisará reunir, pois o formulário só aceita o envio de um único arquivo.
-
-> Agradecimento ao membro do grupo: Victor Castilho [@VictorCarrilhoDev](https://github.com/VictorCarrilhoDev)
-
-Outra ideia também foi a de embutir tudo em um único arquivo PDF e enviar
-
-> Agradecimento ao membro do grupo: João Victor
+_Fonte: <https://no.descomplica.com.br>_
 
 ## 🔹 Live sobre PEX
 
@@ -266,8 +277,7 @@ Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 ## 🔹 Pontuação das Atividades
 
 ![Composição das notas](./src/img/notas-composicao.png)
-
-_Fonte: [Calendário](#-calendário) do Portal do Aluno Descomplica_
+*Fonte: [Calendário](#-calendário) do Portal do Aluno Descomplica*
 
 A pontuação é dividida da seguinte forma: 
 - Os 7 primeiros exercícios são da primeira parcial (1 ponto)
@@ -283,8 +293,7 @@ Você pode alcançar um total de 12 pontos mas serão considerados no **máximo 
 Obs.: A média é de **6 pontos** para ser aprovado em cada disciplina.
 
 ![Distribuição de atividades](./src/img/notas-distribuicao-atividades.png)
-
-_Fonte: Disciplinas do Aluno Descomplica_
+*Fonte: Disciplinas do Aluno Descomplica*
 
 ## 🔹 Concluíndo as atividades com eficiência
 
@@ -306,7 +315,7 @@ As lives ficam salvas em suas respectivas disciplinas, basta clicar na opção `
 
 Escolha a disciplina desejada e acesse a aba `Aula ao vivo`:
 
-![Localizando a aba Aula ao vivo](./src/img/aba-aula-ao-vivo.png)
+![Localizando a aba Aula ao vivo](./src/img/disciplinas-aba-aula-ao-vivo.png)
 
 As reprises estarão bem aqui!
 
@@ -318,13 +327,13 @@ As reprises estarão bem aqui!
 
 Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprender e praticar…
 
-- <https://docs.google.com/spreadsheets/d/1qso-vckMjekNxqr0nEUBhA9dytBuqo2f4X8kM6wqTIE/edit#gid=1119658359>
+- [Google Drive](./redirect.html?site=gabarito_drive)
 
-- <https://discord.gg/jvjzcXjtdG>
+- [ADS - Descomplica](./redirect.html?site=gabarito_discord1)
 
-- <https://discord.gg/RtSBvm3HQ3>
+- [ADS 2023](./redirect.html?site=gabarito_discord2)
 
-- <https://discord.gg/6DbP5vx5mt>
+- [ADS 2023.4](./redirect.html?site=gabarito_discord3)
   
 # 🔷 Sobre o Desenvolvedor
 
@@ -339,6 +348,10 @@ Feito de aluno para aluno 💙
 ## 🔷 Caso algum link não funcionar
 
 Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
+
+## 🔷 Tecnologias utilizadas no projeto
+
+Github Pages - Git - Jekyll - Markdown - GIMP - Microsoft Paint - VS Code - HTML - Javascript - Codeium
 
 ## LICENSE
 
