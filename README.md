@@ -130,6 +130,7 @@ Escolhi esse modelo da UFRA (fonte: Google) pois está muito bem elaborado e exp
 Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação dos eventos do seu curso.
 
 ![Página inicial, seção de eventos](./src/img/inicio-calendario.png)
+
 *Fonte: Portal do Aluno Descomplica*
 
 ## 🔹 Senha das Lives da Descomplica
@@ -138,6 +139,7 @@ Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação do
 
 
 ![Senha das Lives: aluno](./src/img/thumb-live-monitoria.png)
+
 *Fonte: Portal do Aluno Descomplica*
 
 ## 🔹 IA.smin
@@ -145,6 +147,7 @@ Localizado na tela inicial do `Portal do Aluno`, logo abaixo da programação do
 A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, você pode encontrar esta opção clicando no ícone do seu perfil na página inicial do `Portal do Aluno`:
 
 ![Imagem mostrando o ícone de Perfil](./src/img/perfil-e-central-de-ajuda.png)
+
 *Fonte: Portal do Aluno Descomplica*
 
 (Inclusive, aqui fica a `Central de Tickets` também)
@@ -152,6 +155,7 @@ A secretária virtual, IA.smin agora está localizada na `Central de Ajuda`, voc
 Lá você encontrará esta linda e simpática robôzinha:
 
 ![Foto da secretária IA.smin da Descomplica](./src/img/suporte-ia-smin.png)
+
 *Fonte: Central de Ajuda Descomplica*
 
 Com ela você consegue vários tipos de ajuda, inclusive acessos às plataformas que a faculdade disponibiliza, e-mail institucional, abertura de **tickets** e etc.
@@ -163,6 +167,7 @@ Um ticket é a protocolação de uma dúvida ou problema que você abre junto da
 Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus dados, sem seguida clique em `Estudos > Orient. Profissional > Falar com a Coord` como na imagem abaixo:
 
 ![Instruções para abrir um Ticket](./src/img/suporte-chat-ia-smin.png)
+
 *Fonte: Chat com IA.smin, na Central de Ajuda Descomplica*
 
 Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
@@ -185,6 +190,7 @@ Logo na página inicial do `Portal do Aluno`, no menu lateral esquerdo, você en
 > Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
 
 ![Tela inicial da descomplica, menu lateral](./src/img/menu-lateral-carreira.png)
+
 *Fonte: Portal do Aluno Descomplica*
 
 Você será redirecionado para a plataforma `Workalove`, além de cursos livres, lá você também tem auxilio para encontrar vagas de emprego, estágio e etc.
@@ -192,11 +198,13 @@ Você será redirecionado para a plataforma `Workalove`, além de cursos livres,
 Logo ao acessar, você verá este menu lateral:
 
 ![Menu lateral com opções](./src/img/pex-menu-lateral-workalove.png)
+
 *Fonte: Plataforma Workalove da Descomplica*
 
 Clicando em `Aprendizagem` você encontrará a aba `Projeto de Extensão` e lá consta os projetos em que você está inscrito, incluindo a data de entrega, terá um `Cartão da PEX` como na imagem abaixo:
 
 ![Cartão mostrando acesso a PEX](src/img/pex-detalhes.png)
+
 *Fonte: Plataforma Workalove da Descomplica*
 
 Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive as `Orientações do passo a passo` que estarão ao final da página, caso estes arquivos não sejam suficientes para esclarecer todas suas dúvidas, veja o tópico a seguir:
@@ -210,6 +218,7 @@ Após ter encontrado as `Orientações do passo a passo`, role até o final da p
 **Mas fique atento!** Você só poderá mandar uma vez!
 
 ![Instruções de entrega da PEX](./src/img/pex-instrucoes-entrega.jpg)
+
 *Fonte: Mensagem Descomplica*
 
 > Agredecimento ao membro: Nayza
@@ -277,6 +286,7 @@ Av. Barão de Tefé, 27, Sala 602 - Rio de Janeiro/RJ, CEP 20220-460
 ## 🔹 Pontuação das Atividades
 
 ![Composição das notas](./src/img/notas-composicao.png)
+
 *Fonte: [Calendário](#-calendário) do Portal do Aluno Descomplica*
 
 A pontuação é dividida da seguinte forma: 
@@ -293,6 +303,7 @@ Você pode alcançar um total de 12 pontos mas serão considerados no **máximo 
 Obs.: A média é de **6 pontos** para ser aprovado em cada disciplina.
 
 ![Distribuição de atividades](./src/img/notas-distribuicao-atividades.png)
+
 *Fonte: Disciplinas do Aluno Descomplica*
 
 ## 🔹 Concluíndo as atividades com eficiência
