@@ -72,7 +72,7 @@ Entre para bater-papo, tirar dúvidas e ter sucesso na sua graduação.
 
 Espaço para conversas por áudio, estudos e compartilhamento de tela.
 
-Use as salas disponíveis e caso necessite de mais, contate o administrador.
+Use as salas disponíveis e caso necessite de mais, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
 ## 🔹 Google Drive
 
