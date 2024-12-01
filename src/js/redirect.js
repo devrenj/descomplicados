@@ -13,16 +13,17 @@ async function redirecionar(site) {
     babysteps: { url: 'https://renj.dev.br/babysteps', desc: 'Babysteps: Comece por aqui' },
     descomplica_faq: { url: 'https://no.descomplica.com.br/knowledge/graduação', desc: 'Descomplica: Perguntas Frequentes' },
     descomplica_pex: { url: 'https://1653949.fs1.hubspotusercontent-na1.net/hubfs/1653949/Manual%20Projeto%20de%20Extens%C3%A3o%202024.pdf', desc: 'Descomplica: Manual do Projeto de Extensão' },
-    discord: { url: 'https://tinyurl.com/discord-descomplicados', desc: 'Discord: Descomplicados' },
+    discord: { url: 'https://tinyurl.com/discord-descomplicados', desc: 'Descomplicados: Discord ' },
     github: { url: 'https://github.com/devrenj', desc: 'Github: @Devrenj' },
     linkedin_estudantes: { url: 'https://www.linkedin.com/learning/linkedin-para-estudantes-2022/linkedin-para-estudantes', desc: 'Linkedin para Estudantes' },
     renj: { url: 'https://renj.dev.br', desc: 'Meu Site: DevRenj' },
-    drive: { url: 'https://tinyurl.com/descomplicados-drive', desc: 'Google Drive: Descomplicados' },
+    drive: { url: 'https://tinyurl.com/descomplicados-drive', desc: 'Descomplicados: Google Drive' },
     cursos: { url: 'https://tinyurl.com/descomplicados-cursos', desc: 'Google Drive: Cursos' },
-    grupo: { url: 'https://tinyurl.com/descomplicados-grupo', desc: 'Grupo do Whatsapp: Descomplicados' },
+    grupo: { url: 'https://tinyurl.com/descomplicados-grupo', desc: 'Descomplicados: Grupo do Whatsapp' },
     abnt: { url: 'https://portalbiblioteca.ufra.edu.br/images/Formularios/MANUAL_DE_NORMALIZAO_DE_TRABALHOS_ACADMICOS_2024.pdf', desc: 'UFRA: ABNT para trabalhos acadêmicos' },
-    desconews: { url: 'https://wa.me/5521997927656', desc: 'Whatsapp: Desconews' },
+    desconews: { url: 'https://wa.me/5521997927656', desc: 'Descomplica: Whatsapp Desconews' },
     live_pex: { url: 'https://livestream.com/accounts/8954674/events/11194068/player', desc: 'Descomplica: Live Projeto de Extensão' },
+    mural_pex: { url: 'https://tinyurl.com/descomplicados-mural-pex', desc: 'Descomplicados: Mural dos Projeto de Extensão' },
     default: () => {
       document.body.style.opacity = 0;
       alert('Site não encontrado, tente novamente')
