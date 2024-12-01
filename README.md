@@ -40,7 +40,7 @@ Tabela de Conteúdo:
 
 [+ Ir para Mural da PEX: Descomplicados](./redirect.html?site=mural_pex)
 
-Aqui você pode deixar o print do seu Projeto de Extensão (e views também se quiser) e visualizar como ficou o trabalho dos nossos colegas!
+**COLABORATIVO:** Aqui todos podem deixar o print do seu Projeto de Extensão (e views também se quiser) e visualizar como ficou o trabalho dos nossos colegas!
 
 Use o espaço à vontade!
 
