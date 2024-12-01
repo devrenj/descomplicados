@@ -386,7 +386,7 @@ Tenha em mente que você **não vai aprender nada** se copiar, o ideal é aprend
 
 Por favor, entre em contato comigo no [Grupo do Whatsapp: Descomplicados](#-grupo-de-whatsapp)
 
-_Não trabalho na Descomplica!_
+_Obs.: Não trabalho para a Descomplica! O grupo foi desenvolvido para ajudar os alunos_
 
 ## 🔷 Tecnologias utilizadas no projeto
 
