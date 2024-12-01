@@ -6,8 +6,8 @@ O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
 Tabela de Conteúdo:
 - [🔷 Geral](#-geral)
+  - [🔹 Mural da PEX](#-mural-da-pex)
   - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp)
-  - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp-1)
   - [🔹 Discord](#-discord)
   - [🔹 Google Drive](#-google-drive)
   - [🔹 Babysteps](#-babysteps)
@@ -36,7 +36,7 @@ Tabela de Conteúdo:
 
 # 🔷 Geral
 
-## 🔹 Grupo de Whatsapp
+## 🔹 Mural da PEX
 
 [+ Ir para Mural da PEX: Descomplicados](./redirect.html?site=mural_pex)
 
