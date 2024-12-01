@@ -7,6 +7,7 @@ O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 Tabela de Conteúdo:
 - [🔷 Geral](#-geral)
   - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp)
+  - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp-1)
   - [🔹 Discord](#-discord)
   - [🔹 Google Drive](#-google-drive)
   - [🔹 Babysteps](#-babysteps)
@@ -34,6 +35,16 @@ Tabela de Conteúdo:
   - [LICENSE](#license)
 
 # 🔷 Geral
+
+## 🔹 Grupo de Whatsapp
+
+[+ Ir para Mural da PEX: Descomplicados](./redirect.html?site=mural_pex)
+
+Aqui você pode deixar o print do seu Projeto de Extensão (e views também se quiser) e visualizar como ficou o trabalho dos nossos colegas!
+
+Use o espaço à vontade!
+
+Regra: Por favor, mude apenas o seu conteúdo 😁
 
 ## 🔹 Grupo de Whatsapp
 
