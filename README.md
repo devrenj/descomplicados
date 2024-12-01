@@ -5,7 +5,7 @@ O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 ![Logo Descomplicados](./src/img/logo-descomplicados.png)
 
 Tabela de Conteúdo:
-- [🔷 Geral](#-geral)
+- [🔷 Descomplicados](#-descomplicados)
   - [🔹 Mural da PEX](#-mural-da-pex)
   - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp)
   - [🔹 Discord](#-discord)
@@ -19,14 +19,14 @@ Tabela de Conteúdo:
   - [🔹 Senha das Lives da Descomplica](#-senha-das-lives-da-descomplica)
   - [🔹 IA.smin](#-iasmin)
   - [🔹 Abrindo um ticket](#-abrindo-um-ticket)
-  - [🔹 O que é PEX?](#-o-que-é-pex)
-  - [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
-  - [🔹 ONDE entregar a PEX?](#-onde-entregar-a-pex)
-  - [🔹 COMO entregar a PEX?](#-como-entregar-a-pex)
-  - [🔹 QUANDO entregar a PEX?](#-quando-entregar-a-pex)
-  - [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
-  - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
-  - [🔹 Live sobre PEX](#-live-sobre-pex)
+  - [🔷 PEX](#-pex)
+    - [🔹 Onde encontro a PEX?](#-onde-encontro-a-pex)
+    - [🔹 ONDE entregar a PEX?](#-onde-entregar-a-pex)
+    - [🔹 COMO entregar a PEX?](#-como-entregar-a-pex)
+    - [🔹 QUANDO entregar a PEX?](#-quando-entregar-a-pex)
+    - [🔹 Tira-dúvidas da PEX com perguntas dos alunos](#-tira-dúvidas-da-pex-com-perguntas-dos-alunos)
+    - [🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)](#-perguntas-frequentes-sobre-graduação-e-projeto-de-extensão--pex-descomplica)
+    - [🔹 Live sobre PEX](#-live-sobre-pex)
   - [🔹 Contato Descomplica: Desconews](#-contato-descomplica-desconews)
   - [🔹 Pontuação das Atividades](#-pontuação-das-atividades)
   - [🔹 Concluíndo as atividades com eficiência](#-concluíndo-as-atividades-com-eficiência)
@@ -37,7 +37,7 @@ Tabela de Conteúdo:
   - [🔷 Tecnologias utilizadas no projeto](#-tecnologias-utilizadas-no-projeto)
   - [LICENSE](#license)
 
-# 🔷 Geral
+# 🔷 Descomplicados
 
 ## 🔹 Mural da PEX
 
@@ -168,7 +168,7 @@ Agora que você localizou a IA.smin, inicie a conversa com ela, confirme seus da
 
 ![Instruções para abrir um Ticket](./src/img/suporte-chat-ia-smin.png)
 
-*Fonte: Chat com IA.smin, na Central de Ajuda Descomplica*
+*Fonte: Chat com a IA.smin, na Central de Ajuda Descomplica*
 
 Logo em seguida ela pedirá para deixar uma mensagem explicando o que está acontecendo, digite e siga os próximos passos para gerar seu ticket.
 
@@ -176,15 +176,15 @@ Quando for concluído, os tickets aparecerão no mesmo menu do seu perfil, na p�
 
 Caso sua demanda seja **urgente**, tenho outra solução, mas peço para que entre em contato comigo no [Grupo do whatsapp: Descomplicados](#-grupo-de-whatsapp).
 
-## 🔹 O que é PEX?
+## 🔷 PEX
 
 PEX é a abreviatura para Projeto de Extensão.
 
-É uma atividade que você desenvolve junto a uma empresa para se envolver com problemas reais da comunidade em que você está inserido, aplicando o que você aprendeu na faculdade.
+É um projeto de caráter **OBRIGATÓRIO** que você desenvolve junto a uma empresa para se envolver com problemas reais da comunidade em que você está inserido, aplicando o que você aprendeu na faculdade.
 
-A cada semestre é **obrigatório** a realização de uma PEX.
+A cada semestre é **obrigatório** a entrega de uma PEX.
 
-## 🔹 Onde encontro a PEX?
+### 🔹 Onde encontro a PEX?
 
 Logo na página inicial do `Portal do Aluno`, no menu lateral esquerdo, você encontra a opção `Carreira`
 > Para prosseguir, você precisa ter o acesso a Central de Carreiras, desbloqueie com a IA.smin na sessão Plataforma e Acessos!
@@ -209,9 +209,9 @@ Clicando em `Aprendizagem` você encontrará a aba `Projeto de Extensão` e lá 
 
 Ao clicar em `Visualizar Detalhes` você terá muitas informações, inclusive as `Orientações do passo a passo` que estarão ao final da página, caso estes arquivos não sejam suficientes para esclarecer todas suas dúvidas, veja o tópico a seguir:
 
-## 🔹 ONDE entregar a PEX?
+### 🔹 ONDE entregar a PEX?
 
-**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
 Após ter encontrado as `Orientações do passo a passo`, role até o final da página, o último link da seção `Preencher o Formulário online`, será onde você pode enviar a PEX.
 
@@ -223,9 +223,9 @@ Após ter encontrado as `Orientações do passo a passo`, role até o final da p
 
 > Agredecimento ao membro: Nayza
 
-## 🔹 COMO entregar a PEX?
+### 🔹 COMO entregar a PEX?
 
-**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
 Siga as instruções disponíveis no material da sua PEX, algumas informações podem mudar, portanto é sempre bom se orientar por lá.
 
@@ -237,21 +237,21 @@ Outra ideia também foi a de embutir todo conteúdo em um único documento PDF e
 
 > Agradecimento ao membro do grupo: João Victor
 
-## 🔹 QUANDO entregar a PEX?
+### 🔹 QUANDO entregar a PEX?
 
-**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)!
+**Leia o tópico:** [Onde encontro a PEX?](#-onde-encontro-a-pex)
 
 A data de entrega dependerá de cada aluno, é possível visualizar o prazo de entrega no `Cartão da PEX`.
 
-## 🔹 Tira-dúvidas da PEX com perguntas dos alunos
+### 🔹 Tira-dúvidas da PEX com perguntas dos alunos
 
-<https://bit.ly/resp-duvidas-PEX>
+[+ Ir para Retorno das dúvidas sobre PEX](./redirect.html?site=tira_duvidas_pex)
 
 Este é o site oficial da faculdade para as dúvidas que são enviadas pelo formulário dispinível em meio aos links em `Orientações do passo a passo` dentro dos detalhes da PEX:
 
 > Agradecimento ao membro do grupo: Guilherme
 
-## 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
+### 🔹 Perguntas Frequentes sobre Graduação e Projeto de Extensão – PEX (Descomplica)
 
 [+ Ir para Perguntas Frequentes – Descomplica](./redirect.html?site=descomplica_faq)
 
@@ -259,7 +259,7 @@ Tire boa parte de suas dúvidas aqui em relação a faculdade e principalmente: 
 
 _Fonte: <https://no.descomplica.com.br>_
 
-## 🔹 Live sobre PEX
+### 🔹 Live sobre PEX
 
 [+ Ir para a Live do Projeto de Extensão](./redirect.html?site=live_pex)
 
