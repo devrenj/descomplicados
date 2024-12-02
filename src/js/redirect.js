@@ -1,23 +1,37 @@
-import { links } from './links.js';
 const tempo = document.querySelector('#tempo');
 const pontilhado = document.querySelectorAll('#pontilhado');
 const body = document.querySelector('body');
 const voltar = document.querySelector('#voltar');
 const params = new URLSearchParams(window.location.search).get('site');
 const principal = document.querySelector('#principal');
-const redireconarManualmente = document.querySelector('#redireconarManualmente');
+const redirecionarManualmente = document.querySelector(
+  '#redirecionarManualmente'
+);
 let segundos = 10; // Tempo global
 
 async function redirecionar(site) {
+  try {
+    const response = await fetch('./src/json/links.json');
+    if (!response.ok) {
+      throw new Error('Erro ao carregar arquivo.');
+    }
 
-  if (links[site]?.url) {
-    redireconarManualmente.href = links[site].url
-    principal.innerText = links[site].desc ?? (site.at(0).toUpperCase() + site.slice(1));
-    await new Promise((resolve) => setTimeout(resolve, segundos * 1000));
-    window.location.href = links[site].url
-  } else {
-    links.default();
-    return;
+    const links = await response.json();
+
+    if (links[site]?.url) {
+      redirecionarManualmente.href = links[site].url;
+      principal.innerText =
+        links[site].desc ?? site[0].toUpperCase() + site.slice(1);
+      await new Promise((resolve) => setTimeout(resolve, segundos * 1000));
+      window.location.href = links[site].url;
+    } else {
+      throw new Error('Site nao encontrado.');
+    }
+  } catch (err) {
+    console.error(err);
+    document.body.style.opacity = 0;
+    alert('Site não encontrado, tente novamente');
+    window.history.back();
   }
 }
 redirecionar(params);
@@ -30,7 +44,7 @@ let pontos = pontilhado.length - 1;
 
 let efeitoPontilhado = setInterval(() => {
   if (pontos >= 0) {
-    pontilhado[pontos].style.opacity = 0; 
+    pontilhado[pontos].style.opacity = 0;
     pontos--;
   } else {
     pontilhado.forEach((ponto) => {
@@ -41,8 +55,9 @@ let efeitoPontilhado = setInterval(() => {
 }, 1000);
 
 let timer = setInterval(() => {
-  tempo.innerText = `${segundos > 1 ? ` em ${segundos} segundos` : ` em ${segundos} segundo`
-    }`;
+  tempo.innerText = `${
+    segundos > 1 ? ` em ${segundos} segundos` : ` em ${segundos} segundo`
+  }`;
   segundos--;
   if (segundos < 0) {
     tempo.style.display = 'none';
