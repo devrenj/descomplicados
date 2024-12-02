@@ -1,6 +1,6 @@
 Como a faculdade não faz juz ao nome e só... **COMPLICA** 🤡
 
-O jeito foi colocar o barquinho dos estudantes contra a correnteza!
+O jeito foi remar o barquinho dos estudantes contra a correnteza!
 
 ![Logo Descomplicados](./src/img/logo-descomplicados.png)
 
