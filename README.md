@@ -6,7 +6,7 @@ O jeito foi colocar o barquinho dos estudantes contra a correnteza!
 
 Tabela de Conteúdo:
 - [🔷 Descomplicados](#-descomplicados)
-  - [🔹 Mural da PEX](#-mural-da-pex)
+  - [🔹 Mural da PEX: Exposição de projetos](#-mural-da-pex-exposição-de-projetos)
   - [🔹 Grupo de Whatsapp](#-grupo-de-whatsapp)
   - [🔹 Discord](#-discord)
   - [🔹 Google Drive](#-google-drive)
@@ -46,7 +46,7 @@ Tabela de Conteúdo:
 
 # 🔷 Descomplicados
 
-## 🔹 Mural da PEX
+## 🔹 Mural da PEX: Exposição de projetos
 
 [+ Ir para Mural da PEX: Descomplicados](./redirect.html?site=mural_pex)
 
